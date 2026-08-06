@@ -18,7 +18,7 @@ Console.WriteLine();
  * RuntimeInformation provides cross-platform runtime information
  * without relying on operating-system-specific commands.
  */
-Console.WriteLine("Change")
+Console.WriteLine("Change");
 Console.WriteLine("Runtime environment");
 Console.WriteLine("-------------------");
 Console.WriteLine($"Framework:            {RuntimeInformation.FrameworkDescription}");
